@@ -1,3 +1,4 @@
 # batchfiles
-files regarding batch progrmming
-delete the comments before excecuting batch programs
+files regarding batch progrmming.
+
+ Delete the comments before excecuting batch programs
